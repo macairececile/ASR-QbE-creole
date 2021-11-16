@@ -5,8 +5,15 @@ This repository contains the code and results to reproduce the experiments condu
 ## Content
 
 The repository is organized as follow:
-* **src/**, containing the source code.
-* **results/**, including the results for fine-tuning and the query-by-example experiments.
+* **/src**, containing the source code.
+* **/results**, including the results for fine-tuning and the query-by-example experiments.
 
 ## Getting started
 
+## Experiments
+
+### Fine-tuning Wav2Vec2.0 on Creole languages
+
+### Query-by-example
+
+## Acknowledgments
