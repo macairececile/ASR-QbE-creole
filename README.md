@@ -16,7 +16,7 @@ The repository is organized as follow:
 
 ### Query-by-example
 
-The query-by-example is based on the swalign python library. From the prediction of a fine-tuned model, the query-by-example algorithm will give the top alignments, with the path of the file and the complete sentence where the keyword is spotted.
+The query-by-example is based on the [swalign](https://github.com/mbreese/swalign) python library. From the prediction of a fine-tuned model, the query-by-example algorithm will give the top alignments, with the path of the file and the complete sentence where the keyword is spotted.
 
 ```bash
 python --sound path_of_the_audio_segments --model path_of_the_fine_tuned_model --transcript transcription_file
